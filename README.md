@@ -23,7 +23,6 @@
 Finished
 
 ## Video
-- Cube of leds
 https://github.com/vituzm/Cubo_3D/assets/134985122/130da428-03e3-4678-8e63-bebb75d146d7
 
 
